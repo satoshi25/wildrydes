@@ -1,2 +1,20 @@
-
-{}
+{
+  "prodgit": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wildrydes-prodgit-165402-authRole",
+      "UnauthRoleArn": "arn:aws:iam::284763407492:role/amplify-wildrydes-prodgit-165402-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::284763407492:role/amplify-wildrydes-prodgit-165402-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wildrydes-prodgit-165402-deployment",
+      "UnauthRoleName": "amplify-wildrydes-prodgit-165402-unauthRole",
+      "StackName": "amplify-wildrydes-prodgit-165402",
+      "StackId": "arn:aws:cloudformation:us-east-1:284763407492:stack/amplify-wildrydes-prodgit-165402/da7a1d20-5732-11ec-b892-0e03daa92ed9",
+      "AmplifyAppId": "d2z1g3r587g2az"
+    },
+    "categories": {
+      "auth": {
+        "wildrydes305da648": {}
+      }
+    }
+  }
+}
